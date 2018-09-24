@@ -1,0 +1,41 @@
+_repo: Susien-saaliina_56882
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Pakkala, Teuvo
+    alias: Frosterus, Teodor Oskar
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '4116'
+    url: http://www.gutenberg.org/2009/agents/4116
+    wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: Translation of part I of "White Fang" by Jack London, followed by an
+  account of a tiger-hunt by an unknown author.
+gutenberg_issued: '2018-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56882'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Tiger hunting'
+- !lcsh 'Wolfdogs -- Fiction'
+- GITenberg
+tableOfContents: 'Susien saaliina: Matkue. Naarassusi. Kiljuva nälkä -- Tiikerinpyynti
+  Pohjois-Afrikan rannikolla.'
+title: Susien saaliina
+url: http://www.gutenberg.org/ebooks/56882
