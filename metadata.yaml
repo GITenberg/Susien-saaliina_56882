@@ -1,5 +1,5 @@
 _repo: Susien-saaliina_56882
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pakkala, Teuvo
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4116'
     url: http://www.gutenberg.org/2009/agents/4116
     wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -20,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: Translation of part I of "White Fang" by Jack London, followed by an
   account of a tiger-hunt by an unknown author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56882#Susien-saaliina
 gutenberg_issued: '2018-03-31'
 gutenberg_type: Text
 identifiers:
